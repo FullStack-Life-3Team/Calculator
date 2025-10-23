@@ -7,3 +7,5 @@
 ## 박혜린 : [https://fullstack-life-3team.github.io/Calculator/hyerin/](https://fullstack-life-3team.github.io/Calculator/hyerin/)
 
 ## 남경진 : [https://kkaengji.github.io/Calculator](https://kkaengji.github.io/Calculator)
+
+## 남도영 : [https://doyoung1204.github.io/calculator](https://doyoung1204.github.io/calculator)
